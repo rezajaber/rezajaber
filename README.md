@@ -1,7 +1,7 @@
 <h2 align="center">Reza Jaber</h2>
 <p align="center">
   <a href="https://rezajaber.dev">Blog</a> •
-  <a href="https://twitter.com/athulcajay">Twitter</a>
+  <a href="https://twitter.com/rezajaberdev">Twitter</a>
 </p>
 
 ### Hi there <a href="https://www.rezjaber.dev/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
