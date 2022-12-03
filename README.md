@@ -4,9 +4,6 @@
   <a href="https://twitter.com/rezajaberdev">Twitter</a>
 </p>
 
-
-<img align="center"> ![Relaxing-ReadMe-Gif](https://user-images.githubusercontent.com/103548023/205458357-3d4f2d48-998a-4ed8-b0a9-f440bebd36c2.gif) </img>
-
 ### Hi there <a href="https://www.rezjaber.dev/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 This is the place where I share my journey of becoming a front-end-developer :rofl:
 
