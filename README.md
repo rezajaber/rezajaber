@@ -13,7 +13,7 @@ This is the place where I share my journey of becoming a front-end-developer :ro
 - 📫 &nbsp;How to reach me: [@rezajaber] (https://twitter.com/rezajaberdev)</a>
 - 👨‍💻 &nbsp;Read more about my projects at [rezajaber.github.io] (https://github.com/rezajaber/rezajaber.github.io
 
-
+<p>>/p>
 🔗 &nbsp;**Connect with me**
 <p align="left">
 <a href="https://twitter.com/rezajaberdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rezajaber" height="30" width="40" /></a>
