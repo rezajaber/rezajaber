@@ -11,7 +11,7 @@ This is the place where I share my journey of becoming a front-end-developer :ro
 - 🌱 &nbsp;I’m currently learning HTML.CSS.JavaScript
 - 💬 &nbsp;Ask me about anything related to Sport/Music/Gaming/Design
 - 📫 &nbsp;How to reach me: [@rezajaberdev](https://twitter.com/rezajaberdev)</a>
-- 👨‍💻 &nbsp;Read more about my projects at [rezajaber.github.io](https://github.com/rezajaber/rezajaber.github.io)
+- 👨‍💻 &nbsp;Read more about my projects at [rezajaber.github.io](https://github.com/rezajaber/rezajaber.github.io) or [@rezajaber](https://www.frontendmentor.io/profile/rezajaber/solutions)
 
 <h2></h2>
 
