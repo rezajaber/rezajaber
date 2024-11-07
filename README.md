@@ -9,7 +9,7 @@ This is the place where I start my journey as a front-end-developer 🥇
 - 🔭 &nbsp;I’m currently working on building my front-end-career 💻:
 - 🌱 &nbsp;I’m currently learning JavaScript.Vue.Nuxt3
 - 💬 &nbsp;Ask me about anything related to Sport/Music/Gaming/Design
-- 📫 &nbsp;How to reach me: [@rezajaberdev](https://twitter.com/rezajaberdev)</a>
+- 📫 &nbsp;How to reach me: [@rezajaber.com](https://www.rezajaber.com/)</a>
 - 👨‍💻 &nbsp;Read more about my projects at [rezajaber.github.io](https://github.com/rezajaber/rezajaber.github.io) or [@rezajaber](https://www.frontendmentor.io/profile/rezajaber/solutions)
 
 <h2></h2>
